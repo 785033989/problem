@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GitSharedSettings">
+    <option name="FORCE_PUSH_PROHIBITED_PATTERNS">
+      <list />
+    </option>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十三天资料/案例/itheima_mybatis_mapper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十六天资料/案例/itheima_mybatis_anno" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+</project>

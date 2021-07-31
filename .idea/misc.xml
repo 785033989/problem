@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第三天资料/案例/itheima_spring_mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第二天资料/案例/itheima_spring_ioc_anno" />
+    <file type="web" url="file://$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第八天资料/案例/itheima_spring_exception" />
+    <file type="web" url="file://$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第六天资料/案例/itheima_spring_test" />
+    <file type="web" url="file://$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十一天资料/案例/itheima_mybatis_quick" />
+    <file type="web" url="file://$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十三天资料/案例/itheima_mybatis_mapper" />
+    <file type="web" url="file://$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十二天资料/案例/itheima_mybatis_dao" />
+    <file type="web" url="file://$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十五天资料/案例/itheima_mybatis_multi" />
+    <file type="web" url="file://$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十六天资料/案例/itheima_mybatis_anno" />
+    <file type="web" url="file://$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十天资料/案例/itheima_spring_tx" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../spring_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第二天资料/案例/itheima_spring_ioc_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第三天资料/案例/itheima_spring_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第六天资料/案例/itheima_spring_test/pom.xml" />
+        <option value="$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第八天资料/案例/itheima_spring_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十天资料/案例/itheima_spring_tx/pom.xml" />
+        <option value="$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十一天资料/案例/itheima_mybatis_quick/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十三天资料/案例/itheima_mybatis_mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十五天资料/案例/itheima_mybatis_multi/pom.xml" />
+        <option value="$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十六天资料/案例/itheima_mybatis_anno/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectKey">
+    <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

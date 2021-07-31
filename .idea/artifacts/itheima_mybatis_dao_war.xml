@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itheima_mybatis_dao:war">
+    <output-path>$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第十二天资料/案例/itheima_mybatis_dao/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>itheima_mybatis_dao</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="itheima_mybatis_dao-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="itheima_mybatis_dao:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itheima_spring_test:war">
+    <output-path>$PROJECT_DIR$/../../1JAVA/3、SS M框架Spring+SpringMVC+MyBatis全覆盖_S S M整合/资料-SS M框架Spring+SpringMVC+MyBatis全覆盖/第六天资料/案例/itheima_spring_test/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>itheima_spring_test</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="itheima_spring_test-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="itheima_spring_test:war exploded" />
+    </root>
+  </artifact>
+</component>
